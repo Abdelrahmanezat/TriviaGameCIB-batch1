@@ -238,7 +238,7 @@ input[type="radio"]:checked+label {
 }
 
 .grade-details p {
-    color: white;
+    color: rgb(225, 15, 15);
     text-align: center;
 }
 
